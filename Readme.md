@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Anushka+Isuru+Lakmal;Software+Engineer+Student;Full+Stack+Developer;And+an+Open+Source+Supporter">
 </p >
 
+
+![My Img](assets/myphoto.jpg)
+
 - My primary coding language : Java
 - Graduate in Software Engineering at IJSE
 - Programming Skills : *Java, HTML, CSS, JavaScript, NodeJS
