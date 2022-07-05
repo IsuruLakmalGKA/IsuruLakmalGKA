@@ -7,7 +7,7 @@
 
 - My primary coding language : Java
 - Graduate in Software Engineering at IJSE
-- Programming Skills : *Java, HTML, CSS, JavaScript, NodeJS
+- Programming Skills : *Java, Python, C#/C++/C, HTML, CSS, JavaScript, NodeJS
 - Design Skills : AdobeXD, Figma, Photoshop, Illustrator etc.
 - How to reach me :lakmalai72@gmail.com
 - My WhatsApp : +94 768115909
