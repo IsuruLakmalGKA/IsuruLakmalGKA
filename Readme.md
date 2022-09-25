@@ -5,11 +5,8 @@
 <h3 align="center"> ƤɾօƒíƖҽ Víҽⱳʂ 🕵️‍♂️ </h3>
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/{IsuruGithu}/count.svg)
+![Visitor Count]([https://profile-counter.glitch.me/{IsuruGithu}/count.svg](https://komarev.com/ghpvc/?username=IsuruGithu&color=brightgreen))
 </div>
-
-
-![My Img](assets/myphoto.jpg)
 
 - My primary coding language : Java
 - Graduate in Software Engineering at IJSE
@@ -78,10 +75,10 @@
 <h3 align="center">🔗 Connect with Me</h3>
 
 <p align="center">
-  <a href="http://www.linkedin.com/in/isurulakmal99"><img alt="Linkedin" title="Pasindu Lakshan Kudaligama Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/AnushkaIsuru72?t=5B3SsIFbGZhhmsYqXuX0Yg&s=09"><img alt="Twitter" title="Pasindu Lakshan Kudaligama Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:lakmalai72@gmail.com"><img alt="Gmail" title="Pasindu Lakshan Kudaligama Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/IsuruGithu"><img alt="Github" title="Pasindu Lakshan Kudaligama Github" src="https://img.shields.io/badge/GitHub-320021?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="http://www.linkedin.com/in/isurulakmal99"><img alt="Linkedin" title="Isuru Lakmal Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/AnushkaIsuru72?t=5B3SsIFbGZhhmsYqXuX0Yg&s=09"><img alt="Twitter" title="Isuru Lakmal Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:lakmalai72@gmail.com"><img alt="Gmail" title="Isuru Lakmal Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/IsuruGithu"><img alt="Github" title="Isuru Lakmal Github" src="https://img.shields.io/badge/GitHub-320021?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <h3 align="center">
@@ -99,12 +96,14 @@ Where to find me
 
 <h3 align="center">𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 </h3>
 <p align="center">Isuru Lakmal G K A<br>
-<img alt="Stars" src="https://img.shields.io/github/stars/PasinduLakshanKudaligama/PasinduLakshanKudaligama?style=flat-square&labelColor=343b41"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/PasinduLakshanKudaligama/PasinduLakshanKudaligama?style=flat-square&labelColor=343b41"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/IsuruGithu/IsuruGithu?style=flat-square&labelColor=343b41"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/IsuruGithu/IsuruGithu?style=flat-square&labelColor=343b41"/>
 </p>
 
+![My Img](assets/myphoto.jpg)
+
 <p align="center">
-<a href="https://github.com/pasindulakshankudaligama/Readme-File-Styles">
+<a href="https://github.com/IsuruGithu/Readme-File-Styles">
 GitHub Readme Profile Styles here ! ✌
 </a>
 </p>
