@@ -8,7 +8,10 @@
 ![Visitor Count](https://profile-counter.glitch.me/{IsuruGithu}/count.svg)
 </div>
 
+<div align="center" width="500px">
+
 ![My Img](assets/MyPhoto.jpg)
+</div>
 
 - My primary coding language : Java
 - Graduate in Software Engineering at IJSE
