@@ -38,7 +38,7 @@
 <div align="center">
 
 **My Contributions** 😥 <br>
-![snake](https://github.com/IsuruGithu/IsuruGithu/blob/red-alpha/github-contribution-grid-snake.svg)
+![snake](https://github.com/IsuruGithu/IsuruGithu/assets/snake/github-contribution-grid-snake.svg)
 </div>
 
 <h2 align="center">My favorite tools</h2>
