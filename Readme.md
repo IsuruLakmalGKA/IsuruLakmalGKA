@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![My Img](assets/MyPhoto.jpg =250)
+![My Img](assets/MyPhoto.jpg | width=100)
 </div>
 
 - My primary coding language : Java
