@@ -5,7 +5,7 @@
 <h3 align="center"> ƤɾօƒíƖҽ Víҽⱳʂ 🕵️‍♂️ </h3>
 <div align="center">
 
-![Visitor Count]([https://profile-counter.glitch.me/{IsuruGithu}/count.svg](https://komarev.com/ghpvc/?username=IsuruGithu&color=brightgreen))
+![Visitor Count](https://profile-counter.glitch.me/{IsuruGithu}/count.svg)
 </div>
 
 - My primary coding language : Java
@@ -43,6 +43,8 @@
 **My Contributions** 😥 <br>
 ![snake](https://github.com/IsuruGithu/IsuruGithu/blob/master/assets/snake/github-contribution-grid-snake.svg)
 </div>
+
+![My Img](assets/myphoto.jpg)
 
 <h2 align="center">My favorite tools</h2>
 
@@ -100,7 +102,7 @@ Where to find me
 <img alt="Forks" src="https://img.shields.io/github/forks/IsuruGithu/IsuruGithu?style=flat-square&labelColor=343b41"/>
 </p>
 
-![My Img](assets/myphoto.jpg)
+
 
 <p align="center">
 <a href="https://github.com/IsuruGithu/Readme-File-Styles">
