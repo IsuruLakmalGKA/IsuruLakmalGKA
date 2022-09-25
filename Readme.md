@@ -8,8 +8,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/{IsuruGithu}/count.svg)
 </div>
 
-<div align="center" width=100>
-<img src="assets/MyPhoto.jpg" width="208">
+<div align="center">
+<img src="assets/MyPhoto.jpg" width="308">
 </div>
 
 - My primary coding language : Java
