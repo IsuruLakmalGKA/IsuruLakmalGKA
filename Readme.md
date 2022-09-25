@@ -9,8 +9,7 @@
 </div>
 
 <div align="center" width=100>
-
-![My Img](assets/MyPhoto.jpg)
+<img src="assets/MyPhoto.jpg" width="48">
 </div>
 
 - My primary coding language : Java
