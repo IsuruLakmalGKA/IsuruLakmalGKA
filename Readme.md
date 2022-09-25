@@ -47,7 +47,7 @@
 ![snake](https://github.com/IsuruGithu/IsuruGithu/blob/master/assets/snake/github-contribution-grid-snake.svg)
 </div>
 
-![My Img](assets/myphoto.jpg)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IsuruGithu)  
 
 <h2 align="center">My favorite tools</h2>
 
