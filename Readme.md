@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### My Portfolio Website : [minduladilthushan](https://isurugithu.github.io/My-Profile/)  🔍
+### My Portfolio Website : [Isuru Lakmal](https://isurugithu.github.io/My-Profile/)  🔍
 
 </div>
 
