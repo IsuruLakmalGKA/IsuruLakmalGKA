@@ -8,7 +8,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/{IsuruGithu}/count.svg)
 </div>
 
-<div align="center">
 <div align="left">
 - My primary coding language : Java
 - Graduate in Software Engineering at IJSE
@@ -17,8 +16,8 @@
 - How to reach me :lakmalai72@gmail.com
 - My WhatsApp : +94 768115909
 </div>
-	<div align="right"><img src="assets/MyPhoto.jpg" width="208"></div>
-</div>
+<div align="left"><img src="assets/MyPhoto.jpg" width="408"></div>
+
 	
 <div align="center">
 
