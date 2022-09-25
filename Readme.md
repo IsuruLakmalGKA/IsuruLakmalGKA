@@ -17,7 +17,7 @@
 - How to reach me :lakmalai72@gmail.com
 - My WhatsApp : +94 768115909
 </div>
-	<div align="right"><img src="assets/MyPhoto.jpg" width="308"></div>
+	<div align="right"><img src="assets/MyPhoto.jpg" width="208"></div>
 </div>
 	
 <div align="center">
