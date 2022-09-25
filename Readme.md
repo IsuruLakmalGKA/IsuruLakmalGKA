@@ -34,6 +34,13 @@
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=IsuruGithu&color=brightgreen">
   <img alt="Profile followers" src="https://img.shields.io/github/followers/IsuruGithu">
 </p>
+
+<div align="center">
+
+**My Contributions** 😥 <br>
+![snake](https://github.com/IsuruGithu/IsuruGithu/blob/red-alpha/github-contribution-grid-snake.svg)
+</div>
+
 <h2 align="center">My favorite tools</h2>
 
 <h3 align="center">Programming languages</h3>
