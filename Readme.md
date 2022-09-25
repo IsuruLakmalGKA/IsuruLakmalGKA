@@ -9,7 +9,7 @@
 </div>
 
 <div align="center" width=100>
-<img src="assets/MyPhoto.jpg" width="108">
+<img src="assets/MyPhoto.jpg" width="208">
 </div>
 
 - My primary coding language : Java
