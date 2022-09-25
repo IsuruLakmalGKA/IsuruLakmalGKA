@@ -9,16 +9,17 @@
 </div>
 
 <div align="center">
-<img src="assets/MyPhoto.jpg" width="308">
-</div>
-
+<div align="left">
 - My primary coding language : Java
 - Graduate in Software Engineering at IJSE
 - Programming Skills :  Java , Python , C#/C++/C , HTML , CSS , JavaScript , NodeJS
 - Design Skills : AdobeXD, Figma, Photoshop, Illustrator etc.
 - How to reach me :lakmalai72@gmail.com
 - My WhatsApp : +94 768115909
-
+</div>
+	<div align="right"><img src="assets/MyPhoto.jpg" width="308"></div>
+</div>
+	
 <div align="center">
 
 ### My Portfolio Website : [Isuru Lakmal](https://isurugithu.github.io/My-Profile/)  🔍
