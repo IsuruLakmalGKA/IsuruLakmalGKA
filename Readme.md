@@ -8,7 +8,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{IsuruGithu}/count.svg)
 </div>
 
-<div align="center" width="500px">
+<div align="center" width="100px">
 
 ![My Img](assets/MyPhoto.jpg)
 </div>
