@@ -16,7 +16,7 @@
 - My WhatsApp : +94 768115909
 
 <div align="left">
-	<img style="border-radius:20px" src="assets/MyPhoto.jpg" width="408">
+	<img style="border-radius:20px" src="assets/Git.jpg" width="408">
 </div>
 
 	
