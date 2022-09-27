@@ -22,7 +22,7 @@
 	
 <div align="center">
 
-### My Portfolio Website : [Isuru Lakmal](https://isurugithu.github.io/My-Profile/)  🔍
+### My Portfolio Website : [Isuru Lakmal](https://isurulakmalgka.000webhostapp.com/)  🔍
 
 </div>
 
