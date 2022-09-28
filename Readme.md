@@ -38,9 +38,11 @@ I’m familiar with a variety of programming languages, including Java, Python, 
 
 <h3 align="center">📊 Github status</h3>
 
+<div align="center">
 <img  alt="Isuru Lakmal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsuruGithu&langs_count=8&layout=compact&theme=react&hide_border=hide&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+</div>
 
-<p align="Right">
+<p align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=IsuruGithu&color=brightgreen">
   <img alt="Profile followers" src="https://img.shields.io/github/followers/IsuruGithu">
 </p>
