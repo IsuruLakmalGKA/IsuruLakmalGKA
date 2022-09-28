@@ -53,9 +53,27 @@ I’m familiar with a variety of programming languages, including Java, Python, 
 ![snake](https://github.com/IsuruGithu/IsuruGithu/blob/master/assets/snake/github-contribution-grid-snake.svg)
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IsuruGithu)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+<details>
+<summary> 2022 GitHub Commits
+</summary>
+<div align="center">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=isuruGithu&show_icons=true&theme=gotham" alt="IsuruGithu|Stats"/>
+</div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IsuruGithu)  
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=isuruGithu&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isuruGithu&theme=github_dark"/> </p>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isuruGithu&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isuruGithu&theme=github_dark"/>
+</div>
+
+<p align="center"> 
+
+[![IsuruGithu's github activity graph](https://activity-graph.herokuapp.com/graph?username=IsuruGithu&theme=gotham)](https://github.com/IsuruGithu/github-readme-activity-graph&theme=github)
+
+</p> 
 
 <h2 align="center">My favorite tools</h2>
 
