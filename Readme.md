@@ -25,7 +25,7 @@ I’m familiar with a variety of programming languages, including Java, Python, 
   Profile 3D Contributions 🔰
 </h3>
 
-![profile 3d](https://github.com/IsuruGithu/IsuruGithu/blob/red-alpha/profile-3d-contrib/profile-night-rainbow.svg)
+![profile 3d](https://github.com/IsuruGithu/IsuruGithu/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 	
@@ -47,7 +47,7 @@ I’m familiar with a variety of programming languages, including Java, Python, 
 <div align="center">
 
 **My Contributions** 😥 <br>
-![snake](https://github.com/IsuruGithu/IsuruGithu/blob/master/assets/snake/github-contribution-grid-snake.svg)
+![snake](https://github.com/IsuruGithu/IsuruGithu/blob/red-alpha/github-contribution-grid-snake.svg)
 </div>
 
 <div align="center">
