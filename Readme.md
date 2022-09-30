@@ -26,16 +26,6 @@ I’m familiar with a variety of programming languages, including Java, Python, 
 
 ### My Portfolio Website : [Isuru Lakmal](https://isurulakmalgka.000webhostapp.com/)  🔍
 
-</div>
-
-<h3 align="center">
-  Profile 3D Contributions 🔰
-</h3>
-
-![profile 3d](https://github.com/IsuruGithu/IsuruGithu/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
-
 <h3 align="center">📊 Github status</h3>
 
 <div align="center">
