@@ -25,7 +25,7 @@ I’m familiar with a variety of programming languages, including Java, Python, 
   Profile 3D Contributions 🔰
 </h3>
 
-![profile 3d](https://github.com/IsuruGithu/IsuruGithu/blob/master/profile-3d-contrib/profile-night-green.svg)
+*/![profile 3d](https://github.com/IsuruGithu/IsuruGithu/blob/master/profile-3d-contrib/profile-night-green.svg)*/
 
 </div>
 	
