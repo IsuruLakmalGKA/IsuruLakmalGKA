@@ -17,9 +17,9 @@
 
 I’m familiar with a variety of programming languages, including Java, Python, JavaScript, Nodejs, ReactJS and React Native but I’m always adding new skills to my repertoire. I’m also eager to meet other software engineers in the area, so feel free to connect!
 
-<div align="left">
+<!--<div align="left">
 	<img style="border-radius:20px" src="assets/Git.jpg" width="408">
-</div>
+</div>-->
 
 
 
