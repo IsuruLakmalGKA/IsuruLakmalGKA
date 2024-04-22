@@ -5,7 +5,7 @@
 <h3 align="center"> ƤɾօƒíƖҽ Víҽⱳʂ 🕵️‍♂️ </h3>
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/{IsuruGithu}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{IsuruLakmalGKA}/count.svg)
 </div>
 
 - My primary coding language : Java
@@ -32,35 +32,35 @@ I’m familiar with a variety of programming languages, including Java, Python, 
 <h3 align="center">📊 Github status</h3>
 
 <div align="center">
-<img  alt="Isuru Lakmal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsuruGithu&langs_count=8&layout=compact&theme=react&hide_border=hide&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+<img  alt="Isuru Lakmal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsuruLakmalGKA&langs_count=8&layout=compact&theme=react&hide_border=hide&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
 </div>
 
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=IsuruGithu&color=brightgreen">
-  <img alt="Profile followers" src="https://img.shields.io/github/followers/IsuruGithu">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=IsuruLakmalGKA&color=brightgreen">
+  <img alt="Profile followers" src="https://img.shields.io/github/followers/IsuruLakmalGKA">
 </p>
 
 
 
 <div align="center">
 <details>
-<summary> 2022 GitHub Commits
+<summary> 2024 GitHub Commits
 </summary>
 <div align="center">
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=isuruGithu&show_icons=true&theme=gotham" alt="IsuruGithu|Stats"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IsuruLakmalGKA&show_icons=true&theme=gotham" alt="IsuruLakmalGKA|Stats"/>
 </div>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=isuruGithu&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isuruGithu&theme=github_dark"/> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=IsuruLakmalGKA&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsuruLakmalGKA&theme=github_dark"/> </p>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isuruGithu&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isuruGithu&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsuruLakmalGKA&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IsuruLakmalGKA&theme=github_dark"/>
 </div>
 
 <p align="center"> 
 
-[![IsuruGithu's github activity graph](https://activity-graph.herokuapp.com/graph?username=IsuruGithu&theme=gotham)](https://github.com/IsuruGithu/github-readme-activity-graph&theme=github)
+[![IsuruLakmalGKA's github activity graph](https://activity-graph.herokuapp.com/graph?username=IsuruLakmalGKA&theme=gotham)](https://github.com/IsuruLakmalGKA/github-readme-activity-graph&theme=github)
 
 </p> 
 
@@ -69,15 +69,15 @@ I’m familiar with a variety of programming languages, including Java, Python, 
 <h3 align="center">Programming languages</h3>
 
 <p align="center">
-  <a href="https://github.com/search?q=user%IsuruGithu+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%IsuruGithu+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%IsuruGithu+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%IsuruGithu+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="https://github.com/search?q=user%IsuruGithu+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%IsuruGithu+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%IsuruGithu+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%IsuruGithu+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%IsuruGithu+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%IsuruLakmalGKA+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%IsuruLakmalGKA+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%IsuruLakmalGKA+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%IsuruLakmalGKA+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/search?q=user%IsuruLakmalGKA+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%IsuruLakmalGKA+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%IsuruLakmalGKA+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%IsuruLakmalGKA+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%IsuruLakmalGKA+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 
 </p>
 <h3 align="center">Software and tools</h3>
@@ -98,7 +98,7 @@ I’m familiar with a variety of programming languages, including Java, Python, 
   <a href="http://www.linkedin.com/in/isurulakmal99"><img alt="Linkedin" title="Isuru Lakmal Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/AnushkaIsuru72?t=5B3SsIFbGZhhmsYqXuX0Yg&s=09"><img alt="Twitter" title="Isuru Lakmal Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:lakmalai72@gmail.com"><img alt="Gmail" title="Isuru Lakmal Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/IsuruGithu"><img alt="Github" title="Isuru Lakmal Github" src="https://img.shields.io/badge/GitHub-320021?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/IsuruLakmalGKA"><img alt="Github" title="Isuru Lakmal Github" src="https://img.shields.io/badge/GitHub-320021?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <h3 align="center">
@@ -116,14 +116,14 @@ Where to find me
 
 <h3 align="center">𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 </h3>
 <p align="center">Isuru Lakmal G K A<br>
-<img alt="Stars" src="https://img.shields.io/github/stars/IsuruGithu/IsuruGithu?style=flat-square&labelColor=343b41"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/IsuruGithu/IsuruGithu?style=flat-square&labelColor=343b41"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/IsuruLakmalGKA/IsuruLakmalGKA?style=flat-square&labelColor=343b41"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/IsuruLakmalGKA/IsuruLakmalGKA?style=flat-square&labelColor=343b41"/>
 </p>
 
 
 
 <p align="center">
-<a href="https://github.com/IsuruGithu/Readme-File-Styles">
+<a href="https://github.com/IsuruLakmalGKA/Readme-File-Styles">
 GitHub Readme Profile Styles here ! ✌
 </a>
 </p>
