@@ -59,6 +59,8 @@ I’m familiar with a variety of programming languages, including Java, Python, 
 
 <p align="center"> 
 
+![snake gif](https://github.com/IsuruLakmalGKA/IsuruLakmalGKA/blob/redalpha/github-contribution-grid-snake.gif)
+
 [![IsuruLakmalGKA's github activity graph](https://activity-graph.herokuapp.com/graph?username=IsuruLakmalGKA&theme=gotham)](https://github.com/IsuruLakmalGKA/github-readme-activity-graph&theme=github)
 
 </p> 
