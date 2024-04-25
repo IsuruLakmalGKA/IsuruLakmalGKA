@@ -56,10 +56,12 @@ I’m familiar with a variety of programming languages, including Java, Python, 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsuruLakmalGKA&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IsuruLakmalGKA&theme=github_dark"/>
 </div>
-
+<div align="center">
+	
+![snake gif](https://github.com/IsuruLakmalGKA/IsuruLakmalGKA/blob/red-alpha/github-contribution-grid-snake.gif)
+</div>
 <p align="center"> 
-[![snake gif](https://github.com/IsuruLakmalGKA/IsuruLakmalGKA/blob/red-alpha/github-contribution-grid-snake.gif)](https://github.com/IsuruLakmalGKA/IsuruLakmalGKA/blob/red-alpha/github-contribution-grid-snake.gif)
-
+	
 ![IsuruLakmalGKA's github activity graph](https://github.com/IsuruLakmalGKA/IsuruLakmalGKA/blob/master/profile-3d-contrib/profile-night-green.svg)
 </p> 
 
