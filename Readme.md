@@ -61,7 +61,7 @@ I’m familiar with a variety of programming languages, including Java, Python, 
 
 [![snake gif](https://github.com/IsuruLakmalGKA/IsuruLakmalGKA/blob/red-alpha/github-contribution-grid-snake.gif)](https://github.com/IsuruLakmalGKA/IsuruLakmalGKA/blob/red-alpha/github-contribution-grid-snake.gif)
 
-[![IsuruLakmalGKA's github activity graph](https://activity-graph.herokuapp.com/graph?username=IsuruLakmalGKA&theme=gotham)](https://github.com/IsuruLakmalGKA/github-readme-activity-graph&theme=github)
+[![IsuruLakmalGKA's github activity graph](https://github.com/IsuruLakmalGKA/IsuruLakmalGKA/blob/master/profile-3d-contrib/profile-night-green.svg)
 
 </p> 
 
