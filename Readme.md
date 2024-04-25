@@ -57,12 +57,9 @@ I’m familiar with a variety of programming languages, including Java, Python, 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IsuruLakmalGKA&theme=github_dark"/>
 </div>
 
-<h3 align="center">GitHub Commits</h3>
 <p align="center"> 
 [![snake gif](https://github.com/IsuruLakmalGKA/IsuruLakmalGKA/blob/red-alpha/github-contribution-grid-snake.gif)](https://github.com/IsuruLakmalGKA/IsuruLakmalGKA/blob/red-alpha/github-contribution-grid-snake.gif)
-</p>
-<h3 align="center">GitHub Commits</h3>
-<p align="center">
+
 ![IsuruLakmalGKA's github activity graph](https://github.com/IsuruLakmalGKA/IsuruLakmalGKA/blob/master/profile-3d-contrib/profile-night-green.svg)
 </p> 
 
