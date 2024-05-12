@@ -26,7 +26,7 @@ I’m familiar with a variety of programming languages, including Java, Python, 
 	
 <div align="center">
 
-### My Portfolio Website : [Isuru Lakmal](https://isurulakmalgka.000webhostapp.com/)  🔍
+### My Portfolio Website : [Isuru Lakmal](https://isurulakmalgka.github.io/portfoliopro/)  🔍
 
 <h3 align="center">📊 Github status</h3>
 
